@@ -1,9 +1,9 @@
-#myProgress {
+#Progress {
   width: 100%;
   background-color: rgb(128, 128, 128);
 }
 
-#myBar {
+#TotalRemaining {
   width: 1%;
   height: 30px;
   background-color: green;
